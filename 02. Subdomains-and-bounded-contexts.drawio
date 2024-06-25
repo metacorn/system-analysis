@@ -1,0 +1,58 @@
+<mxfile host="Electron" modified="2024-06-25T14:26:28.103Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.1 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="885_iiS4UDITQuzwO9jN" version="24.6.1" type="device">
+  <diagram name="Page-1" id="UNjnUuAYD3OGf-XShn9t">
+    <mxGraphModel dx="2868" dy="1674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1300" pageHeight="1150" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gK7Y1I6zPceGVn6tA7fC-3" value="ПРИЁМ ЗАЯВОК" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;verticalAlign=top;fontSize=21;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="50" y="295" width="320" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="gK7Y1I6zPceGVn6tA7fC-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;КЛИЕНТСКИЙ ДАШБОРД&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="110" y="375" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="gK7Y1I6zPceGVn6tA7fC-4" value="РАСПРЕДЕЛЕНИЕ&lt;br&gt;ВОРКЕРОВ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="490" y="295" width="320" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="gK7Y1I6zPceGVn6tA7fC-5" value="МЭТЧИНГ" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="550" y="375" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="gK7Y1I6zPceGVn6tA7fC-6" value="НАЙМ ВОРКЕРОВ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="490" y="590" width="320" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="gK7Y1I6zPceGVn6tA7fC-7" value="ОПРЕДЕЛЕНИЕ ПРИГОДНОСТИ И ХАРАКТЕРИСТИК СОИСКАТЕЛЕЙ" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="550" y="670" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="gK7Y1I6zPceGVn6tA7fC-9" value="ОКАЗАНИЕ УСЛУГ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="930" y="295" width="320" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="gK7Y1I6zPceGVn6tA7fC-10" value="ОПЛАТА ТРУДА ВОРКЕРОВ" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="990" y="495" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="gK7Y1I6zPceGVn6tA7fC-11" value="ВЫПОЛНЕНИЕ ЗАДАЧ ВОРКЕРАМИ" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="990" y="345" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="gK7Y1I6zPceGVn6tA7fC-12" value="ПРИЁМ ПЛАТЕЖЕЙ ОТ КЛИЕНТОВ" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="990" y="645" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="gK7Y1I6zPceGVn6tA7fC-13" value="СНАБЖЕНИЕ ВОРКЕРОВ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;verticalAlign=top;fontSize=20;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="30" width="320" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="gK7Y1I6zPceGVn6tA7fC-15" value="КОМПЛЕКТАЦИЯ ЗАДАЧ ВОРКЕРОВ" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="550" y="80" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="gK7Y1I6zPceGVn6tA7fC-16" value="МОТИВАЦИЯ&lt;div&gt;МЕНЕДЖЕРОВ&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;verticalAlign=top;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="930" y="860" width="320" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="gK7Y1I6zPceGVn6tA7fC-17" value="ТОТАЛИЗАТОР" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="990" y="940" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="gK7Y1I6zPceGVn6tA7fC-21" value="КОНТРОЛЬ КАЧЕСТВА" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;verticalAlign=top;fontSize=20;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="30" width="320" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="gK7Y1I6zPceGVn6tA7fC-23" value="АНАЛИЗ ПРОВАЛЕННЫХ ЗАДАЧ" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="990" y="80" width="200" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
